@@ -43,35 +43,9 @@ I'm a curious and motivated **Software Engineering student** at FPT University, 
 
 </div>
 
-## 📌 Featured Projects
-
-### 🏥 [School Medical Management System](https://github.com/lpaxxa/School_Medical_Management_System)
-> A full-stack web application to manage school healthcare activities for K–12 institutions.
-
-**Tech Stack:** Java, Spring Boot, React, MSSQL, Cloudinary, JWT
-
-- 🔐 Implemented JWT-based authentication and role-based authorization (parent, nurse, admin)
-- 🏗️ Built core backend and frontend features following OOP and modular architecture
-- 🔄 Designed RESTful APIs for seamless communication
-- 👥 Led a team of 5 developers using GitHub branching strategies
-
----
 
 
 
-## 🏆 Achievements
-
-- 🌟 **Excellent Student of Semester** - Fall 2024
-- 📜 **Unit Test Certification** - FPT Software Academy HCM
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=lpaxxa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpaxxa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-  
-</div>
 
 ## 🤝 Let's Connect!
 
