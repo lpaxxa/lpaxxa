@@ -61,7 +61,6 @@ I'm a curious and motivated **Software Engineering student** at FPT University, 
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=lpaxxa&color=6C63FF&style=flat-square)
   
   ⭐️ From [lpaxxa](https://github.com/lpaxxa)
   
